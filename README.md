@@ -14,3 +14,4 @@ git remote add origin git@github.com:Airrobo/geosafety2.0.git
 git push -u origin master
 
 echo #github_guide
+#github_guide
